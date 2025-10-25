@@ -1,54 +1,106 @@
-# 👋 Hola, soy Gontzal Bilbao  
+<!-- Banner principal -->
+<h1 align="center">👋 Hola, soy <span style="color:#3B82F6;">Gontzal Bilbao</span></h1>
 
-💡 **Arquitecto de Soluciones y Data Engineer especializado en automatización, ETL y analítica cloud.**  
-Combino la parte técnica de infraestructura y automatización (AWS, Terraform, CI/CD) con el diseño de procesos de datos eficientes (SQL Server, SSIS, Power BI, Glue, Athena, S3).
+<h3 align="center">Arquitecto de Soluciones | Data Engineer | Cloud & Automation Enthusiast ☁️</h3>
+
+<p align="center">
+💡 Especializado en <strong>ETL, analítica de datos, automatización y optimización cloud</strong>.<br>
+Diseño y desarrollo soluciones escalables que conectan <em>infraestructura, datos y negocio</em>.
+</p>
 
 ---
 
-### 🚀 Sobre mí  
-- 🧠 **Actualmente trabajo en Evolbe**, donde lidero proyectos de integración y explotación de datos.  
-- ⚙️ He optimizado procesos ETL reduciendo cargas de 10 h a 30 min mediante automatización e infraestructura eficiente.  
-- 🌩️ Diseñando arquitecturas multi-tenant en AWS (EC2, RDS, S3, Glue, Athena, Lambda, EventBridge).  
-- 📊 Apasionado por la analítica de negocio, Power BI y la ingeniería de datos.  
-- 💬 Siempre explorando nuevas formas de unir automatización, datos y rendimiento.  
+### 🧠 Sobre mí  
+- 🧩 Actualmente trabajo en **Evolbe**, liderando proyectos de integración y explotación de datos.  
+- ⚙️ He reducido procesos ETL de 10 h a 30 min mediante automatización e infraestructura AWS.  
+- 🌩️ Arquitecturas multi-tenant en AWS (EC2, RDS, S3, Glue, Athena, Lambda, EventBridge).  
+- 📊 Apasionado por la analítica de negocio con **Power BI** y la ingeniería de datos.  
+- 🚀 Creo en la tecnología que **optimiza, automatiza y transforma decisiones en valor real**.  
 
 ---
 
 ### 🧰 Stack técnico principal  
+
 #### ☁️ Cloud & DevOps  
-`AWS` · `Terraform` · `EC2` · `Lambda` · `EventBridge` · `CloudWatch` · `S3` · `RDS` · `Glue` · `Athena` · `VPC` · `IAM`  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI/CD-555555?logo=githubactions&logoColor=white)
+
 #### 🧪 Data & ETL  
-`SQL Server` · `SSIS` · `PostgreSQL` · `MySQL` · `ETL incremental` · `Power BI` · `Athena Views`  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-0078D7?logo=windows&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?logo=amazon-aws&logoColor=white)
+![Athena](https://img.shields.io/badge/AWS%20Athena-232F3E?logo=amazon-aws&logoColor=white)
+
 #### 💻 Backend & Automatización  
-`FastAPI` · `Python` · `Bash` · `Node.js` · `Docker`  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+
 #### 🌐 Frontend  
-`React` · `Astro` · `Tailwind CSS`  
-#### 🧠 IA y análisis  
-`OpenAI API` · `Python data stack (pandas, numpy)`  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 ---
 
 ### 🎓 Certificaciones  
 - ✅ **AWS Certified Solutions Architect – Associate**  
 - 🎯 **AWS Certified AI Practitioner (en preparación)**  
-- 🧩 Formación continua en Data Engineering, Cloud y Automatización.  
+- 📚 Formación continua en **Data Engineering, Cloud y Automatización**  
 
 ---
 
-### 📈 Algunos proyectos destacados  
-- **Evolbe Platform (SaaS)** → Digitalización de RRHH y Operaciones multi-tenant.  
-- **SQL2BI Navigator** → Conversor inteligente de SQL a datasets Power BI (FastAPI + React).  
-- **TravelSuite App** → SaaS para agencias de viajes, con backend en FastAPI y app móvil en Flutter.  
-- **Infraestructura AWS Automatizada** → Scripts para encendido/apagado, backups y optimización de costes.  
+### 🚀 Proyectos destacados  
+
+#### 🧩 **Evolbe Platform (SaaS)**
+> Digitalización integral de RRHH y Operaciones en entornos multi-tenant.  
+> Arquitectura AWS + SQL Server + Power BI + SSIS.  
+> Automatización de procesos y optimización de costes cloud.
+
+#### 📊 **SQL2BI Navigator**
+> SaaS que convierte archivos `.sql` en datasets y dashboards de Power BI.  
+> Stack: FastAPI · React · PostgreSQL · Railway · Vercel.  
+> Incluye esquemas temporales, almacenamiento de datasets y generación de insights con IA.
+
+#### 🌍 **TravelSuite**
+> Plataforma SaaS para agencias de viajes con aplicación móvil.  
+> Backend: FastAPI · Base de datos PostgreSQL.  
+> App móvil: Flutter (en desarrollo).
+
+#### ⚙️ **Evolbe Infra Automation**
+> Automatización de encendido/apagado de instancias EC2 y RDS con Lambda + EventBridge.  
+> Scripts de backup, limpieza de logs y despliegues CI/CD documentados.
+
+---
+
+### 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gontzalbbilbao&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gontzalbbilbao&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
 ### 🌍 Encuéntrame en
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gontzal%20Bilbao-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gontzalbilbao/)  
-[![GitHub](https://img.shields.io/badge/GitHub-gontzalbbilbao-black?style=flat&logo=github)](https://github.com/gontzalbbilbao)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gontzalbilbao/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gontzal%20Bilbao-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/gontzalbbilbao">
+    <img src="https://img.shields.io/badge/GitHub-gontzalbbilbao-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
-> “Automatizar procesos, optimizar infraestructuras y transformar datos en decisiones.”
-
----
+<p align="center">
+  <em>“Automatizar procesos, optimizar infraestructuras y transformar datos en decisiones.”</em>
+</p>
