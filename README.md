@@ -1,4 +1,3 @@
-<!-- Banner principal -->
 <h1 align="center">👋 Hola, soy <span style="color:#3B82F6;">Gontzal Bilbao</span></h1>
 
 <h3 align="center">Arquitecto de Soluciones | Data Engineer | Cloud & Automation Enthusiast ☁️</h3>
@@ -59,33 +58,46 @@ Diseño y desarrollo soluciones escalables que conectan <em>infraestructura, dat
 
 ### 🚀 Proyectos destacados  
 
-#### 🧩 **Evolbe Platform (SaaS)**
-> Digitalización integral de RRHH y Operaciones en entornos multi-tenant.  
-> Arquitectura AWS + SQL Server + Power BI + SSIS.  
-> Automatización de procesos y optimización de costes cloud.
-
-#### 📊 **SQL2BI Navigator**
-> SaaS que convierte archivos `.sql` en datasets y dashboards de Power BI.  
-> Stack: FastAPI · React · PostgreSQL · Railway · Vercel.  
-> Incluye esquemas temporales, almacenamiento de datasets y generación de insights con IA.
-
-#### 🌍 **TravelSuite**
-> Plataforma SaaS para agencias de viajes con aplicación móvil.  
-> Backend: FastAPI · Base de datos PostgreSQL.  
-> App móvil: Flutter (en desarrollo).
-
-#### ⚙️ **Evolbe Infra Automation**
-> Automatización de encendido/apagado de instancias EC2 y RDS con Lambda + EventBridge.  
-> Scripts de backup, limpieza de logs y despliegues CI/CD documentados.
+#### 🧭 **SQL2BI Navigator**
+> Plataforma SaaS que convierte archivos SQL en datasets y dashboards de Power BI de forma automática.  
+> Incluye esquemas temporales por sesión y exportación dinámica.  
+> **Stack:** FastAPI · React · PostgreSQL · Power BI  
 
 ---
 
-### 📈 GitHub Stats  
+#### ☁️ **Infraestructura AWS Automatizada**
+> Arquitectura en AWS para entornos multi-tenant con automatización de encendido/apagado de instancias, políticas de backups y optimización de costes.  
+> **Stack:** AWS · Terraform · Lambda · EventBridge · S3  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gontzalbbilbao&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gontzalbbilbao&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+---
+
+#### 🔄 **Pipelines ETL con SSIS + Glue**
+> Integración de datos entre sistemas on-premise y cloud con cargas incrementales, trazabilidad y orquestación automatizada.  
+> **Stack:** SSIS · AWS Glue · RDS · S3  
+
+---
+
+#### 💰 **Optimización de Costes en AWS**
+> Estrategia de reducción de costes aplicando apagado automático fuera de horario laboral, migración a Graviton y políticas de ciclo de vida en S3.  
+> **Stack:** AWS · Lambda · CloudWatch · S3  
+
+---
+
+#### 🧱 **Arquitectura ETL 3 capas con Glue y Athena**
+> Diseño de una arquitectura ETL moderna en AWS con tres capas (bronze, silver y gold) para asegurar escalabilidad y eficiencia.  
+> **Stack:** AWS Glue · Athena · S3 · QuickSight / Power BI  
+
+---
+
+#### ⚙️ **ETL Serverless con Terraform**
+> Infraestructura reproducible y automatizada para arquitecturas ETL modernas en AWS utilizando Terraform.  
+> **Stack:** Terraform · AWS · Glue · Athena  
+
+---
+
+#### 🔷 **ETL híbrido con SSIS y Azure Data Factory**
+> Arquitectura híbrida que combina SSIS on-premise con ADF para escalar y orquestar cargas de datos de forma centralizada.  
+> **Stack:** SSIS · Azure Data Factory · SQL Server · Power BI  
 
 ---
 
